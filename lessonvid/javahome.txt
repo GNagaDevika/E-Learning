@@ -1,0 +1,11 @@
+<h1 style="margin-left:200px"><span style="color:#3498db"><strong>Java Tutorial</strong></span></h1>
+
+<p>Java is a high-level programming language originally developed by Sun Microsystems and released in 1995. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This tutorial gives a complete understanding of Java. This reference will take you through simple and practical approaches while learning Java Programming language.</p>
+
+<h1>Audience</h1>
+
+<p>This tutorial has been prepared for the beginners to help them understand the basic to advanced concepts related to Java Programming language.</p>
+
+<h1>Prerequisites</h1>
+
+<p>Before you start practicing various types of examples given in this reference, we assume that you are already aware about computer programs and computer programming languages.</p>
